@@ -6,6 +6,4 @@ TRABALHO COMEÇA NO LOGIN.PHP
 VAI PARA O INDEX.PHP
 E LÁ DENTRO HÁ BOTÕES, ASSIM COMO O DE SAIR.
 
-Vídeo funcionamento:
 
-https://www.youtube.com/watch?v=GYELGLEA5xg
